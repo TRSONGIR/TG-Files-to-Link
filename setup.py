@@ -15,7 +15,7 @@ setuptools.setup(
     author="Tulir Asokan",
     author_email="tulir@maunium.net",
 
-    description="A Telegram bot that can stream Telegram files to users over HTTP.",
+    description="A Tg bot that can stream Telegram files to users over HTTP.",
     long_description=long_desc,
     long_description_content_type="text/markdown",
 
